@@ -1,0 +1,27 @@
+{
+  "name": "shelterdata",
+  "version": "1.0.0",
+  "description": "pull and clean data from homelessshelterdirectory.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "shelterdata"
+  },
+  "keywords": [
+    "homeless",
+    "shelter",
+    "data",
+    "fetch",
+    "clean"
+  ],
+  "type": "module",
+  "author": "cody chan",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.2.0"
+  }
+}
