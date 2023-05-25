@@ -1,6 +1,6 @@
 import fs from "fs";
 // this function will save contents of the links into `scrappedContent/${url.host}.js`
-export default function save() {
+export default function save(setfn) {
 	const links = this;
 	const url = this.url;
 	// creates folder if it does not exist
@@ -8,12 +8,13 @@ export default function save() {
 		fs.mkdirSync("scrappedContent");
 	}
 	// writes the files
+	const saveFileName = setfn || url.host;
 	fs.writeFile(
-		`scrappedContent/${url.host}.js`,
+		`scrappedContent/${saveFileName}.js`,
 		JSON.stringify(links),
 		(err) => {
 			if (err) throw err;
-			console.log(" link File saved!");
+			console.log(" link File saved! to", saveFileName);
 		}
 	);
 	return this.links;

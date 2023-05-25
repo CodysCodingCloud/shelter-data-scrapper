@@ -1,0 +1,302 @@
+[
+    {
+        "state": "Alabama",
+        "stateAbbreviation": "AL",
+        "link": "https://www.homelessshelterdirectory.org/state/alabama",
+        "saveFile": "shelter_data_AL"
+    },
+    {
+        "state": "Alaska",
+        "stateAbbreviation": "AK",
+        "link": "https://www.homelessshelterdirectory.org/state/alaska",
+        "saveFile": "shelter_data_AK"
+    },
+    {
+        "state": "Arizona",
+        "stateAbbreviation": "AZ",
+        "link": "https://www.homelessshelterdirectory.org/state/arizona",
+        "saveFile": "shelter_data_AZ"
+    },
+    {
+        "state": "Arkansas",
+        "stateAbbreviation": "AR",
+        "link": "https://www.homelessshelterdirectory.org/state/arkansas",
+        "saveFile": "shelter_data_AR"
+    },
+    {
+        "state": "California",
+        "stateAbbreviation": "CA",
+        "link": "https://www.homelessshelterdirectory.org/state/california",
+        "saveFile": "shelter_data_CA"
+    },
+    {
+        "state": "Colorado",
+        "stateAbbreviation": "CO",
+        "link": "https://www.homelessshelterdirectory.org/state/colorado",
+        "saveFile": "shelter_data_CO"
+    },
+    {
+        "state": "Connecticut",
+        "stateAbbreviation": "CT",
+        "link": "https://www.homelessshelterdirectory.org/state/connecticut",
+        "saveFile": "shelter_data_CT"
+    },
+    {
+        "state": "Delaware",
+        "stateAbbreviation": "DE",
+        "link": "https://www.homelessshelterdirectory.org/state/delaware",
+        "saveFile": "shelter_data_DE"
+    },
+    {
+        "state": "Florida",
+        "stateAbbreviation": "FL",
+        "link": "https://www.homelessshelterdirectory.org/state/florida",
+        "saveFile": "shelter_data_FL"
+    },
+    {
+        "state": "Georgia",
+        "stateAbbreviation": "GA",
+        "link": "https://www.homelessshelterdirectory.org/state/georgia",
+        "saveFile": "shelter_data_GA"
+    },
+    {
+        "state": "Hawaii",
+        "stateAbbreviation": "HI",
+        "link": "https://www.homelessshelterdirectory.org/state/hawaii",
+        "saveFile": "shelter_data_HI"
+    },
+    {
+        "state": "Idaho",
+        "stateAbbreviation": "ID",
+        "link": "https://www.homelessshelterdirectory.org/state/idaho",
+        "saveFile": "shelter_data_ID"
+    },
+    {
+        "state": "Illinois",
+        "stateAbbreviation": "IL",
+        "link": "https://www.homelessshelterdirectory.org/state/illinois",
+        "saveFile": "shelter_data_IL"
+    },
+    {
+        "state": "Indiana",
+        "stateAbbreviation": "IN",
+        "link": "https://www.homelessshelterdirectory.org/state/indiana",
+        "saveFile": "shelter_data_IN"
+    },
+    {
+        "state": "Iowa",
+        "stateAbbreviation": "IA",
+        "link": "https://www.homelessshelterdirectory.org/state/iowa",
+        "saveFile": "shelter_data_IA"
+    },
+    {
+        "state": "Kansas",
+        "stateAbbreviation": "KS",
+        "link": "https://www.homelessshelterdirectory.org/state/kansas",
+        "saveFile": "shelter_data_KS"
+    },
+    {
+        "state": "Kentucky",
+        "stateAbbreviation": "KY",
+        "link": "https://www.homelessshelterdirectory.org/state/kentucky",
+        "saveFile": "shelter_data_KY"
+    },
+    {
+        "state": "Louisiana",
+        "stateAbbreviation": "LA",
+        "link": "https://www.homelessshelterdirectory.org/state/louisiana",
+        "saveFile": "shelter_data_LA"
+    },
+    {
+        "state": "Maine",
+        "stateAbbreviation": "ME",
+        "link": "https://www.homelessshelterdirectory.org/state/maine",
+        "saveFile": "shelter_data_ME"
+    },
+    {
+        "state": "Montana",
+        "stateAbbreviation": "MT",
+        "link": "https://www.homelessshelterdirectory.org/state/montana",
+        "saveFile": "shelter_data_MT"
+    },
+    {
+        "state": "Nebraska",
+        "stateAbbreviation": "NE",
+        "link": "https://www.homelessshelterdirectory.org/state/nebraska",
+        "saveFile": "shelter_data_NE"
+    },
+    {
+        "state": "Nevada",
+        "stateAbbreviation": "NV",
+        "link": "https://www.homelessshelterdirectory.org/state/nevada",
+        "saveFile": "shelter_data_NV"
+    },
+    {
+        "state": "New Hampshire",
+        "stateAbbreviation": "NH",
+        "link": "https://www.homelessshelterdirectory.org/state/new_hampshire",
+        "saveFile": "shelter_data_NH"
+    },
+    {
+        "state": "New Jersey",
+        "stateAbbreviation": "NJ",
+        "link": "https://www.homelessshelterdirectory.org/state/new_jersey",
+        "saveFile": "shelter_data_NJ"
+    },
+    {
+        "state": "New Mexico",
+        "stateAbbreviation": "NM",
+        "link": "https://www.homelessshelterdirectory.org/state/new_mexico",
+        "saveFile": "shelter_data_NM"
+    },
+    {
+        "state": "New York",
+        "stateAbbreviation": "NY",
+        "link": "https://www.homelessshelterdirectory.org/state/new_york",
+        "saveFile": "shelter_data_NY"
+    },
+    {
+        "state": "North Carolina",
+        "stateAbbreviation": "NC",
+        "link": "https://www.homelessshelterdirectory.org/state/north_carolina",
+        "saveFile": "shelter_data_NC"
+    },
+    {
+        "state": "North Dakota",
+        "stateAbbreviation": "ND",
+        "link": "https://www.homelessshelterdirectory.org/state/north_dakota",
+        "saveFile": "shelter_data_ND"
+    },
+    {
+        "state": "Ohio",
+        "stateAbbreviation": "OH",
+        "link": "https://www.homelessshelterdirectory.org/state/ohio",
+        "saveFile": "shelter_data_OH"
+    },
+    {
+        "state": "Oklahoma",
+        "stateAbbreviation": "OK",
+        "link": "https://www.homelessshelterdirectory.org/state/oklahoma",
+        "saveFile": "shelter_data_OK"
+    },
+    {
+        "state": "Oregon",
+        "stateAbbreviation": "OR",
+        "link": "https://www.homelessshelterdirectory.org/state/oregon",
+        "saveFile": "shelter_data_OR"
+    },
+    {
+        "state": "Maryland",
+        "stateAbbreviation": "MD",
+        "link": "https://www.homelessshelterdirectory.org/state/maryland",
+        "saveFile": "shelter_data_MD"
+    },
+    {
+        "state": "Massachusetts",
+        "stateAbbreviation": "MA",
+        "link": "https://www.homelessshelterdirectory.org/state/massachusetts",
+        "saveFile": "shelter_data_MA"
+    },
+    {
+        "state": "Michigan",
+        "stateAbbreviation": "MI",
+        "link": "https://www.homelessshelterdirectory.org/state/michigan",
+        "saveFile": "shelter_data_MI"
+    },
+    {
+        "state": "Minnesota",
+        "stateAbbreviation": "MN",
+        "link": "https://www.homelessshelterdirectory.org/state/minnesota",
+        "saveFile": "shelter_data_MN"
+    },
+    {
+        "state": "Mississippi",
+        "stateAbbreviation": "MS",
+        "link": "https://www.homelessshelterdirectory.org/state/mississippi",
+        "saveFile": "shelter_data_MS"
+    },
+    {
+        "state": "Missouri",
+        "stateAbbreviation": "MO",
+        "link": "https://www.homelessshelterdirectory.org/state/missouri",
+        "saveFile": "shelter_data_MO"
+    },
+    {
+        "state": "Pennsylvania",
+        "stateAbbreviation": "PA",
+        "link": "https://www.homelessshelterdirectory.org/state/pennsylvania",
+        "saveFile": "shelter_data_PA"
+    },
+    {
+        "state": "Rhode Island",
+        "stateAbbreviation": "RI",
+        "link": "https://www.homelessshelterdirectory.org/state/rhode_island",
+        "saveFile": "shelter_data_RI"
+    },
+    {
+        "state": "South Carolina",
+        "stateAbbreviation": "SC",
+        "link": "https://www.homelessshelterdirectory.org/state/south_carolina",
+        "saveFile": "shelter_data_SC"
+    },
+    {
+        "state": "South Dakota",
+        "stateAbbreviation": "SD",
+        "link": "https://www.homelessshelterdirectory.org/state/south_dakota",
+        "saveFile": "shelter_data_SD"
+    },
+    {
+        "state": "Tennessee",
+        "stateAbbreviation": "TN",
+        "link": "https://www.homelessshelterdirectory.org/state/tennessee",
+        "saveFile": "shelter_data_TN"
+    },
+    {
+        "state": "Texas",
+        "stateAbbreviation": "TX",
+        "link": "https://www.homelessshelterdirectory.org/state/texas",
+        "saveFile": "shelter_data_TX"
+    },
+    {
+        "state": "Utah",
+        "stateAbbreviation": "UT",
+        "link": "https://www.homelessshelterdirectory.org/state/utah",
+        "saveFile": "shelter_data_UT"
+    },
+    {
+        "state": "Vermont",
+        "stateAbbreviation": "VT",
+        "link": "https://www.homelessshelterdirectory.org/state/vermont",
+        "saveFile": "shelter_data_VT"
+    },
+    {
+        "state": "Virginia",
+        "stateAbbreviation": "VA",
+        "link": "https://www.homelessshelterdirectory.org/state/virginia",
+        "saveFile": "shelter_data_VA"
+    },
+    {
+        "state": "Washington",
+        "stateAbbreviation": "WA",
+        "link": "https://www.homelessshelterdirectory.org/state/washington",
+        "saveFile": "shelter_data_WA"
+    },
+    {
+        "state": "West Virginia",
+        "stateAbbreviation": "WV",
+        "link": "https://www.homelessshelterdirectory.org/state/west_virginia",
+        "saveFile": "shelter_data_WV"
+    },
+    {
+        "state": "Wisconsin",
+        "stateAbbreviation": "WI",
+        "link": "https://www.homelessshelterdirectory.org/state/wisconsin",
+        "saveFile": "shelter_data_WI"
+    },
+    {
+        "state": "Wyoming",
+        "stateAbbreviation": "WY",
+        "link": "https://www.homelessshelterdirectory.org/state/wyoming",
+        "saveFile": "shelter_data_WY"
+    }
+]
