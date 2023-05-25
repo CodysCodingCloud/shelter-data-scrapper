@@ -14,7 +14,7 @@ export default function save(setfn) {
 		JSON.stringify(links),
 		(err) => {
 			if (err) throw err;
-			console.log(" link File saved! to", saveFileName);
+			console.log("link File saved! to", saveFileName);
 		}
 	);
 	return this.links;
