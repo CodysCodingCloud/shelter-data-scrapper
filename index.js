@@ -22,4 +22,4 @@ const get_data_range = async function (start, end) {
 		await get_data(i);
 	}
 };
-get_data_range(3, 4);
+get_data_range(5, 10);
