@@ -10,7 +10,7 @@ export default function save(setfn) {
 	// writes the files
 	const saveFileName = setfn || url.host;
 	fs.writeFile(
-		`scrappedContent/${saveFileName}.js`,
+		`scrappedContent/${saveFileName}.json`,
 		JSON.stringify(links),
 		(err) => {
 			if (err) throw err;

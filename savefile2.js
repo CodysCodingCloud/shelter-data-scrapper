@@ -6,7 +6,7 @@ export default function saveint(links, filename) {
 	}
 	// writes the files
 	fs.writeFile(
-		`scrappedContent/${filename}.js`,
+		`scrappedContent/${filename}.json`,
 		JSON.stringify(links),
 		(err) => {
 			if (err) throw err;
